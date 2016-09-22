@@ -38,13 +38,12 @@ wget http://nginx.org/download/nginx-1.7.8.tar.gz
 # clone ngx_http_google_filter_module
 # @see https://github.com/cuber/ngx_http_google_filter_module
 #
-git clone https://github.com/cuber/ngx_http_google_filter_module
-
+git clone https://github.com/Greyh4t/ngx_http_google_filter_module.git
 #
 # clone ngx_http_substitutions_filter_module
 # @see https://github.com/yaoweibin/ngx_http_substitutions_filter_module
 #
-git clone https://github.com/yaoweibin/ngx_http_substitutions_filter_module
+git clone https://github.com/Greyh4t/ngx_http_substitutions_filter_module.git
 ```
 ##### Brand new installation #####
 ``` bash
